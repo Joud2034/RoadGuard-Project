@@ -8,12 +8,8 @@
 
 ### Group: G3
 
-### Project members: 
-### Zainab Zaki Almajdi
-### Faridah Hussain Abdulaziz
-### Zainab Ali Alfaraj
-### Joud Muhannad Alsaba
-### Salma Abdulelah Almuhanna
+### Project members: | Zainab Zaki Almajdi | Faridah Hussain Abdulaziz |Zainab Ali Alfaraj |  Joud Muhannad Alsaba | Salma Abdulelah Almuhanna
+
 
 
 ## Overview
