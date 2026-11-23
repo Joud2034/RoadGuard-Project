@@ -1,26 +1,26 @@
-#RoadGuard: Road-Damage Detection with Classical Image Processing and YOLO11
+# RoadGuard: Road-Damage Detection with Classical Image Processing and YOLO11
 
-A Comparative Study Using the RDD2022 Dataset
+## A Comparative Study Using the RDD2022 Dataset
 
-Course: ARTI 403
+### Course: ARTI 403
 
-Instructor: Manal Almaeen
+### Instructor: Manal Almaeen
 
-Group: G3
+### Group: G3
 
-Project members: 
+### Project members: 
 
 
-Overview
+## Overview
 
 The classical pipeline enhances grayscale images, applies adaptive Gaussian thresholding and morphological operations, then uses a road-focused region of interest, connected-component analysis, and bounding-box extraction to produce damage candidates. YOLO11 directly predicts road-damage bounding boxes and classes. Both approaches are described in their respective sections of this repository.
 
-Methods
+## Methods
 
 Classical image processing: adaptive Gaussian thresholding, morphological operations, ROI filtering, connected-component analysis, and bounding-box extraction.
 YOLO11: fine-tuning a pretrained detector, selecting a checkpoint using validation data, and evaluating it on the held-out Test Set.
 
-Team and Contributions
+## Team and Contributions
 
 | Member | Contribution |
 |---|---|
@@ -30,7 +30,7 @@ Team and Contributions
 | Member 4 | Classical damage-detection pipeline |
 | Member 5 | Final evaluation, metrics, and results comparison |
 
-Dataset
+## Dataset
 
 | Split | Images | Purpose |
 |---|---:|---|
@@ -40,7 +40,7 @@ Dataset
 The project uses road images and bounding-box annotations from RDD2022. Dataset access and preparation instructions are available (https://github.com/sekilab/RoadDamageDetector).
 
 
-How to Reproduce a Run
+## How to Reproduce a Run
 
 1-Open the relevant notebook in Google Colab.
 
