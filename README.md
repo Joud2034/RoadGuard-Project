@@ -9,6 +9,11 @@
 ### Group: G3
 
 ### Project members: 
+### Zainab Zaki Almajdi
+### Faridah Hussain Abdulaziz
+### Zainab Ali Alfaraj
+### Joud Muhannad Alsaba
+### Salma Abdulelah Almuhanna
 
 
 ## Overview
@@ -24,11 +29,11 @@ YOLO11: fine-tuning a pretrained detector, selecting a checkpoint using validati
 
 | Member | Contribution |
 |---|---|
-| Member 1 | Project proposal, objectives |
-| Member 2 | Canny baseline and related edge-based experiments  |
-| Member 3 | Image enhancement- Grayscale conversion and image enhancement |
-| Member 4 | Classical damage-detection pipeline |
-| Member 5 | Final evaluation, metrics, and results comparison |
+| Zainab Zaki Almajdi | Project proposal, objectives |
+| Faridah Hussain Abdulaziz | Canny baseline and related edge-based experiments  |
+| Zainab Ali Alfaraj | Image enhancement- Grayscale conversion and image enhancement |
+| Joud Muhannad Alsaba | Classical damage-detection pipeline |
+| Salma Abdulelah Almuhanna | Final evaluation, metrics, and results comparison |
 
 ## Dataset
 
