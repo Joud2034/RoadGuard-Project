@@ -2,13 +2,13 @@ RoadGuard: Road-Damage Detection with Classical Image Processing and YOLO11
 
 A Comparative Study Using the RDD2022 Dataset
 
-Course: [Course name]
+Course: ARTI 403
 
-Instructor: [Instructor name]
+Instructor: Manal Almaeen
 
-Group: [Group number]
+Group: G3
 
-Project members: [Names of group members]
+Project members: 
 
 
 Overview
