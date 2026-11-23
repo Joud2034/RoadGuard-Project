@@ -24,11 +24,11 @@ Team and Contributions
 
 | Member | Contribution |
 |---|---|
-| Member 1 | [Contribution] |
-| Member 2 | Canny baseline |
-| Member 3 | Image enhancement |
-| Member 4 | Classical pipeline |
-| Member 5 | Final evaluation and comparison |
+| Member 1 | Project proposal, objectives |
+| Member 2 | Canny baseline and related edge-based experiments  |
+| Member 3 | Image enhancement- Grayscale conversion and image enhancement |
+| Member 4 | Classical damage-detection pipeline |
+| Member 5 | Final evaluation, metrics, and results comparison |
 
 Dataset
 
@@ -37,7 +37,7 @@ Dataset
 | Development Set | 5,100 | Development, configuration selection, and validation |
 | Test Set | 900 | Final evaluation after settings are fixed |
 
-The project uses road images and bounding-box annotations from RDD2022. Dataset access and preparation instructions are available [here]([dataset link]).
+The project uses road images and bounding-box annotations from RDD2022. Dataset access and preparation instructions are available (https://github.com/sekilab/RoadDamageDetector).
 
 
 How to Reproduce a Run
