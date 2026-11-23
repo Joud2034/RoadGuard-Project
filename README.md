@@ -41,6 +41,35 @@ YOLO11: fine-tuning a pretrained detector, selecting a checkpoint using validati
 The project uses road images and bounding-box annotations from RDD2022. Dataset access and preparation instructions are available (https://github.com/sekilab/RoadDamageDetector).
 
 
+## Repository Structure
+
+```text
+RoadGuard-Project/
+├── Dataset/
+│   └── final/
+│       ├── Metadata.csv
+│       └── README.md
+├── YOLOv11/
+│   ├── README.md
+│   ├── RoadGuard_YOLO (1).ipynb
+│   ├── RoadGuard_YOLO11.zip
+│   └── best.pt
+├── notebooks/
+│   ├── RoadGuard_FINAL_(1)_(5).ipynb
+│   └── classical_pipeline/
+├── results/
+│   └── classical_pipeline/
+│       ├── Member3_Figures_improved-20261123T175916Z-1-001.zip
+│       ├── Member4_Improved_Results-20261123T175926Z-1-001.zip
+│       ├── Member4_Improved_Results_improved-20261123T175933Z-1-001.zip
+│       ├── Member4_Improved_v2_Results-20261123T175952Z-1-001.zip
+│       ├── RoadGuard_Canny_Baseline_improved-20261123T175956Z-1-001.zip
+│       ├── RoadGuard_Member4_Masks_iou50_v4-20261123T180358Z-1-001.zip
+│       └── README.md
+└── README.md
+```
+
+
 ## How to Reproduce a Run
 
 1-Open the relevant notebook in Google Colab.
