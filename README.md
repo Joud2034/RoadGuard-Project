@@ -1,4 +1,4 @@
-#RoadGuard: Road-Damage Detection with Classical Image Processing and YOLO11
+RoadGuard: Road-Damage Detection with Classical Image Processing and YOLO11
 
 A Comparative Study Using the RDD2022 Dataset
 
